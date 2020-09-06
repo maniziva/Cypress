@@ -6,7 +6,8 @@
 
   "scripts": {
     "test": "node_modules\\.bin\\cypress run",
-    "DemoQABooks_Login":"npm run test -- --spec \"cypress/integration/examples/DemoQABooks/*\""
+    "test1":"npx cypress run -- --spec \"cypress/integration/examples/DemoQABooks/*\"",
+    "DemoQABooks_Login":"npm run test -- --spec \"cypress\\integration\\examples\\DemoQABooks/*\""
 
   },
   "author": "Mani_Ziva",

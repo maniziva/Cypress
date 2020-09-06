@@ -9,7 +9,7 @@
     "DemoQABooks_Login":"npm run test -- --spec \"cypress/integration/examples/DemoQABooks/*\""
 
   },
-  "author": "ManiZiva",
+  "author": "Mani_Ziva",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^5.0.0",
